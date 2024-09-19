@@ -1,5 +1,5 @@
 # Initialize the starting number
- = 1
+number = 1
 
 # Start the while loop
 while number <= 100:
